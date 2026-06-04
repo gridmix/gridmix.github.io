@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgridmix_website=self.webpackChunkgridmix_website||[]).push([[3761],{64089(o,t,e){e.r(t),e.d(t,{default:()=>i});var r=function(){var s=this,n=s._self._c;return n("Layout",[n("Section",{staticClass:"text-center"},[n("h1",[s._v("404 - Page not found")])])],1)},a=[],l=e(68636),u={},c=(0,l.A)(u,r,a,!1,null,null,null);const i=c.exports}}]);
